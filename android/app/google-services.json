@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022872568520",
+    "project_id": "bootcamp-day13",
+    "storage_bucket": "bootcamp-day13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022872568520:android:67917db15535da4be45bfd",
+        "android_client_info": {
+          "package_name": "com.dds.bootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022872568520-d7lc7dp41ruogcf8ef5d4mpmvuv83vrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAb6HYDD93cGj4IQhk6Vs6_LVe-u8IhJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022872568520-d7lc7dp41ruogcf8ef5d4mpmvuv83vrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
